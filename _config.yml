@@ -16,7 +16,7 @@ website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
@@ -26,7 +26,7 @@ darkmode: true
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: dhareddy-pavani
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
